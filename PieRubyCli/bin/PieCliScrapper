@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+require 'pie_cli_scrapper'
+require 'scrapper'
+require 'game'
+require 'cli'
